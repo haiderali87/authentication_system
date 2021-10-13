@@ -25,10 +25,3 @@ class DbConnection
         return $this->connection;
     }
 }
-
-
-?>
-
-<h1>
-    This is a practice of git
-</h1>
