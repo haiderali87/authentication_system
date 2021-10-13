@@ -29,7 +29,6 @@ class DbConnection
 
 ?>
 
-
-
-
-
+<h1>
+    This is a practice of git
+</h1>
