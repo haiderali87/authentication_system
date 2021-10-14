@@ -28,4 +28,4 @@ class DbConnection
 
 
 
-echo "you are now studying git";
+echo "Hello everybody you know about git";
