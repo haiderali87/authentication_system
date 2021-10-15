@@ -11,7 +11,7 @@ if (isset($_SESSION['user'])) {
 <html>
 
 <head>
-    <title>PHP Login using OOP </title>
+    <title>PHP Login System</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
